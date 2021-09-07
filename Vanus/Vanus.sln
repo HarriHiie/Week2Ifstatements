@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vanus", "Vanus\Vanus.csproj", "{11EF64AA-86FD-4F92-89F2-34A6878C1CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juhiluba", "Juhiluba\Juhiluba.csproj", "{6B016AEE-6345-490D-B0A5-DD59A2B4CF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalityTest", "PositiveNegative\PersonalityTest.csproj", "{DE476D37-1539-4AD6-9AC3-594F4CBE982F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11EF64AA-86FD-4F92-89F2-34A6878C1CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EF64AA-86FD-4F92-89F2-34A6878C1CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EF64AA-86FD-4F92-89F2-34A6878C1CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EF64AA-86FD-4F92-89F2-34A6878C1CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B016AEE-6345-490D-B0A5-DD59A2B4CF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B016AEE-6345-490D-B0A5-DD59A2B4CF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B016AEE-6345-490D-B0A5-DD59A2B4CF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B016AEE-6345-490D-B0A5-DD59A2B4CF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE476D37-1539-4AD6-9AC3-594F4CBE982F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE476D37-1539-4AD6-9AC3-594F4CBE982F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE476D37-1539-4AD6-9AC3-594F4CBE982F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE476D37-1539-4AD6-9AC3-594F4CBE982F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8596C54-D095-4A89-A11E-095F719A63B0}
+	EndGlobalSection
+EndGlobal

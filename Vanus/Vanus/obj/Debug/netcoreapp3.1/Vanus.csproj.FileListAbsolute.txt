@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\bin\Debug\netcoreapp3.1\Vanus.exe
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\bin\Debug\netcoreapp3.1\Vanus.deps.json
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\bin\Debug\netcoreapp3.1\Vanus.runtimeconfig.json
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\bin\Debug\netcoreapp3.1\Vanus.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\bin\Debug\netcoreapp3.1\Vanus.dll
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\bin\Debug\netcoreapp3.1\Vanus.pdb
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.dll
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.pdb
+C:\Users\opilane\source\repos\TitpE21\Vanus\Vanus\obj\Debug\netcoreapp3.1\Vanus.genruntimeconfig.cache
