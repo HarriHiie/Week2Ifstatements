@@ -13,7 +13,7 @@ namespace PositiveNegative
             //kui kasutaja sisestab midagi muud, konsool kuvab "oled ükssavik"
 
             Console.WriteLine("Mis on su lemmik värv?");
-            string Usercolor = Console.ReadLine();
+            string Usercolor = Console.ReadLine().ToLower();;
             if (Usercolor == "punane")
             {
                 Console.WriteLine("Oled Romantiline");
